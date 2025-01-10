@@ -1,6 +1,4 @@
 # anazappa.github.io
-personal page
-
 
 I am Ana Zappa, a postdoctoral Marie Skłodowska-Curie fellow at the University of Barcelona. My research focuses on second language (L2) learning, adopting an interdisciplinary approach that integrates psycholinguistic and social cognitive perspectives. Specifically, I investigate how social interaction shapes L2 acquisition, with an emphasis on lexicosemantic learning.
 
