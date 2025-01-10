@@ -4,4 +4,4 @@ I am Ana Zappa, a postdoctoral Marie Skłodowska-Curie fellow at the University 
 
 To achieve this, I employ a combination of electroencephalography (EEG), eye-tracking, pupillometry, and behavioral measures to examine the neural, psychophysiological, and behavioral correlates of L2 word learning across diverse learning contexts. I use virtual reality to create interactive, immersive social environments that strike a balance between ecological validity and experimental control.
 
-![DSC_0199](https://github.com/user-attachments/assets/28be47a2-d294-4abd-894b-6d04fa24de67)
+
