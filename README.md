@@ -1,5 +1,5 @@
 # Socially and physically interactive second language learning
-## Behavioral and brain corelates
+## Behavioral and brain correlates
 
 Welcome! I'm Ana Zappa, a postdoctoral Marie Skłodowska-Curie fellow at the University of Barcelona. My research focuses on second language (L2) learning, adopting an interdisciplinary approach that integrates psycholinguistic and social cognitive perspectives. Specifically, I examine how action and social interaction shapes the formation of lexicosemantic representations.
 
