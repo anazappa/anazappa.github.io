@@ -5,6 +5,9 @@ Welcome! I'm Ana Zappa, a postdoctoral Marie Skłodowska-Curie fellow at the Uni
 
 To achieve this, I use a combination of electroencephalography (EEG), eye-tracking, pupillometry, and behavioral measures to examine the neural, psychophysiological, and behavioral correlates of L2 word learning across diverse learning contexts. I use virtual reality to create interactive, immersive social environments that strike a balance between ecological validity and experimental control.
 
+### CV
+[CV (PDF)](Ana_Zappa_CV.pdf)
+
 ### Selected publications
 - [Zappa, A., Slater, M., Rodriguez-Fornells, A., Social interaction shapes and boosts second language learning: virtual reality can show us how. npj Science of Learning.](https://rdcu.be/eVnKD)
 - [Zappa, A., Osokina, P., Cerda, D. Cucurell, X. Mateu, Rodriguez-Fornells,A. The Effects of Reliable Social Feedback on Language Learning: Insights from Electroencephalography and Pupillometry. Journal of Cognitive Neuroscience.](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/JOCN.a.2420/134516/The-Effects-of-Reliable-Social-Feedback-on)
